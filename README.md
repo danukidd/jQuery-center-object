@@ -23,11 +23,11 @@ Options
 Usage
 -----
 
-	$('#objectToCenter').center();
+	$('#objectToCenter').centerObject();
 	
-	$('.objectToCenter').center({parent: "#container"});
+	$('.objectToCenter').centerObject({parent: "#container"});
 	
-	$('#objectToCenter').center({
+	$('#objectToCenter').centerObject({
 		parent: "#container",
 		resize: false
 	});
