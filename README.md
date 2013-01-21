@@ -11,14 +11,14 @@ Required jQuery 1.4.2 or higher.
 Options
 -------
 
-  parent: "" //value is identity object in jquery notation. Can be id (#) or class (.) or other selection in jquery as a parent object.
-			default => window.
+  	parent: "" //value is identity object in jquery notation. Can be id (#) or class (.) or other selection in jquery as a parent object.
+		default => window.
 	resize: true or false //keep center when parent is resized
-			default => true
+		default => true
 	scroll: true or false //keep center when parent is scrolled
-			default => true
+		default => true
 	contentResize: true or false //keep center when centered object is resized
-			default => true
+		default => true
 
 Usage
 -----
