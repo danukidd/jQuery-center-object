@@ -1,0 +1,27 @@
+{
+    "name": "centerObject",
+    "title": "jQuery centerObject Plugin",
+    "description": "CenterObject is a jQuery plugin that centers a object in web page. There are several options for setting such as parent object, keep centering object when resize window, scrolling window, and resizing content.",
+    "keywords": [
+        "center",
+        "object",
+        "position"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Danuk Cahya",
+        "email": "danukidd@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/danukidd/jQuery-center-object/blob/master/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/danukidd/jQuery-center-object/issues",
+    "homepage": "https://github.com/danukidd/jQuery-center-object",
+    "docs": "https://github.com/danukidd/jQuery-center-object",
+    "dependencies": {
+        "jquery": ">=1.4.2"
+    }
+}
